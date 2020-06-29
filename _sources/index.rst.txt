@@ -1,0 +1,39 @@
+
+
+Qcrew documentation
+======================
+
+Introduction
+-------------------
+
+- `home page <https://quantumcrew.org/>`_
+
+Welcome to the Quantum Circuits Research & Engineering Workgroup (qcrew)! 
+We are a multi-disciplinary experimental research team in Singapore's 
+`Centre for Quantum Technologies <https://en.wikipedia.org/wiki/Centre_for_Quantum_Technologies>`_ . 
+We build modular quantum devices to enable robust quantum computing and explore novel phenomena in quantum physics.
+
+
+Team
+---------------
+
+- Yvonne Y. Gao (Principal Investigator)
+	- `Google Scholar <https://scholar.google.com/citations?user=A3AtqowAAAAJ&hl=en>`_ 
+
+- Atharv Joshi (Research Assistant)
+
+- Ruiqi Ding (Research Assistant)
+	- `GitHub <https://github.com/tesla-cat>`_
+
+- Jonathan Schwinger (Ph.D student)
+
+- Fernando Valadares (Ph.D student)
+
+
+
+
+.. toctree::
+	:caption: Packages
+
+	yarn/index
+
